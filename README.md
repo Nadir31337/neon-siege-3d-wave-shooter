@@ -1,4 +1,4 @@
-# ⚡ NEON SIEGE: 3D Synthwave Survival Protocol
+# ⚡ Neon Siege: 3D Wave Shooter
 
 [![Built with Three.js](https://img.shields.io/badge/Three.js-r170-00f3ff.svg)](https://threejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue.svg)](https://www.typescriptlang.org/)
